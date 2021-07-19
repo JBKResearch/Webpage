@@ -1,3 +1,21 @@
-#mainNav {
-  background-color: darkcyan;
+.navbar-dark .navbar-brand {
+  color: black;
+  font-size: 22px;
+}
+
+.navbar-dark .navbar-text {
+  color: black;
+}
+
+.page-title {
+  margin-bottom: 25px;
+}
+
+.page-description {
+  margin-bottom: 50px;
+  max-width: 789px;
+}
+
+h1 {
+  font-size: 40px;
 }
