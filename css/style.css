@@ -1,14 +1,20 @@
 html {
   font-family: 'Noto Sans JP', sans-serif;
+  font-weight: 400;
+}
+
+body {
+  background-color: #1f2933;
+  color: #cbd2d9;
 }
 
 .navbar-dark .navbar-brand {
-  color: black;
+  color: #cbd2d9;
   font-size: 22px;
 }
 
 .navbar-dark .navbar-text {
-  color: black;
+  color: #cbd2d9;
 }
 
 .page-title {
