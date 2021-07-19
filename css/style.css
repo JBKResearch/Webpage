@@ -9,6 +9,24 @@ body {
   color: #cbd2d9;
 }
 
+.notice-ribbon {
+  display: block;
+  position: relative;
+  padding: 12px 20px;
+  background: #ebf1f5;
+  border-bottom: 1px solid #dae5ed;
+}
+
+.notice-ribbon-text {
+  font-size: 10px;
+  font-size: 1rem;
+  color: #5c7080;
+  font-weight: 400;
+  margin: 0 auto;
+  max-width: 900px;
+  text-align: center;
+}
+
 .navbar-dark .navbar-brand {
   color: #cbd2d9;
   font-size: 22px;
