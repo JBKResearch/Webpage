@@ -1,3 +1,7 @@
+html {
+  font-family: 'Noto Sans JP', sans-serif;
+}
+
 .navbar-dark .navbar-brand {
   color: black;
   font-size: 22px;
